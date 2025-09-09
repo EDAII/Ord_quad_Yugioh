@@ -69,7 +69,9 @@ para executar o programa.
 ![trevor](caso_de_teste_trevor.png)  
 ### **Figura 4**: Caso de teste com o personagem Trevor, retornando a ordenação necessária.
 <br></br>
+
 ## Conclusões
-Aqui você diz se o algoritmo utilizado foi útil, se tem limitações, etc.
+A equipe só teve receio em relação à facilidade do projeto, mas acreditamos que foi um uso interessante do Insertion Sort, podendo aplicar à um contexto mais pessoal - o que justifica a busca de uma situação baseada na realidade, em um jogo de cartas já existente.
+
 ## Referências
 ### [1] Base de dados de Yugioh. Acesso em: [https://www.db.yugioh-card.com/yugiohdb/](https://www.db.yugioh-card.com/yugiohdb/). Visitado em 08/09/2025.
