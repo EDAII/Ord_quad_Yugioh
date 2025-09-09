@@ -66,9 +66,9 @@ $ Python3 main.py
 para executar o programa.
 
 ## Capturas de tela
-Neste tópico você deve adicionar imagens do funcionamento do projeto.  
- - As imagens devem ser salvas no repositório.
- - Imagens salvas em domínios eternos tendem a ficar indisponíveis e devem ser evitadas.   
+![trevor](caso_de_teste_trevor.png)  
+### **Figura 4**: Caso de teste com o personagem Trevor, retornando a ordenação necessária.
+<br></br>
 ## Conclusões
 Aqui você diz se o algoritmo utilizado foi útil, se tem limitações, etc.
 ## Referências
